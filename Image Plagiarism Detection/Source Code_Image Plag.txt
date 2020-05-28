@@ -1,0 +1,29 @@
+print("Hello User, This is a Python Plagiarism Detection program ")
+
+print("\nThis project detects plagiarized images.\n\n")
+
+import numpy as np      # NumPy is a python library used for working with arrays.
+import cv2     	      # OpenCV-Python is a library of Python bindings designed to solve computer vision problems.
+
+
+image1 = cv2.imread("Original Image.jpg") #cv2.imread() method loads an image from the specified file.
+image2 = cv2.imread("Copied Image.jpg")
+
+difference = cv2.subtract(image1,image2)
+# We can subtract the pixel values in two images and merge them with the help of cv2.subtract(). 
+# The images should be of equal size and depth.
+
+res = not np.any(difference) 
+#numpy.any() returns True if at least one element in a NumPy array evaluates to True
+
+print("Result of Plagiarism Detection : ")
+
+if res is True:
+    print("These two are Same Images ")
+else:
+    print("\nThese two are Different images\n")
+    cv2.imwrite("Result_difference.jpg", difference)
+    print("Check the root file for the Resulting image formed")
+    print("which shows the difference between two source images input")
+    print("\n")
+print("Program ends here")
