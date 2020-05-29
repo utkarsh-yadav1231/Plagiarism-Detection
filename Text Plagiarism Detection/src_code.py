@@ -1,5 +1,5 @@
 # Program 1.0
-# This Program 1.0 creates a Html file that shows plagiarized text along with colors.
+# This Program 1.0 creates a Html file that shows difference between texts in both the files using colors.
 
 from difflib import SequenceMatcher
 import difflib
@@ -7,7 +7,6 @@ import difflib
 first_file = "C:/Users/utkarsh/Desktop/g1.txt"
 second_file = "C:/Users/utkarsh/Desktop/g2.txt"
 
-# fromlines = open(fromfile, 'U').readlines()
 first_file_lines = str(open(first_file).readlines())
 second_file_lines = str(open(second_file).readlines())
 
