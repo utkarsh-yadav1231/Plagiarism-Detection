@@ -1,10 +1,8 @@
 # Image Plagiarism Detection
 
 ## What is Plagiarism
-Plagiarism is an act of stealing someone else’s work and admitting it’s his work, 
-and now we have a system to detect this act.
-Plagiarism Detection System is a much needed system to stop unfair activities from student. 
-From this document, the readers will get a clear and easy view of Plagiarism Detection System. 
+Plagiarism is an act of stealing someone else’s work and admitting and passing them off as one's own, and now we have a system to detect this act.
+From this document, the readers will get a clear and easy view of Image Plagiarism Detection System. 
 
 ## What does the python source code does ?
 1. It inputs two images (.jpeg) which could be identified as Original Image and Doubtful Image. 
@@ -23,4 +21,4 @@ an original image a little bit).
 
 1) Two sample images were tested with the above python code :- 
 
-<img src="https://github.com/utkarsh-yadav1231/Plagiarism-Detection/blob/master/Image%20Plagiarism%20Detection/Screenshot.PNG" alt="SS 1"/>
+<img src="https://github.com/utkarsh-yadav1231/Plagiarism-Detection/blob/master/Image%20Plagiarism%20Detection/Other%20Files/Screenshot.PNG" alt="SS 1"/>
