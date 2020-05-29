@@ -18,3 +18,9 @@ an original image a little bit).
 ## Language and Software used :
 1. Python
 2. Pycharm IDE
+
+## Screenshots :-
+
+1) Two sample images were tested with the above python code :- 
+
+<img src="https://github.com/utkarsh-yadav1231/Plagiarism-Detection/blob/master/Image%20Plagiarism%20Detection/Screenshot.PNG" alt="SS 1"/>
