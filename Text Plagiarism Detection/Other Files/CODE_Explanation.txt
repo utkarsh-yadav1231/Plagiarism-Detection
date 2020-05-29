@@ -1,0 +1,44 @@
+# Program 1.0 Code Explanation
+
+1) import difflib 
+/* 
+	The difflib module contains tools for computing and working with differences between sequences. 
+	It is especially useful for comparing text, and includes functions that produce reports using 
+	several common difference formats.
+*/
+
+2) from difflib import SequenceMatcher
+/*
+	The SequenceMatcher class compares two sequences of any types, as long as the values are hashable.
+	It uses an algorithm to identify the longest contiguous matching blocks from the sequences,
+	eliminating “junk” values that do not contribute to the real data.
+*/
+
+3) str(open(first_file).readlines())
+/*
+	Python file method readlines() reads until EOF using readline() and returns a list containing the lines.
+*/
+
+4) difflib.HtmlDiff().make_file()
+/*
+	The make_file() method produces a fully-formed HTML file as output.
+*/
+
+5)	d.make_table()
+/*
+	make_table(), which only returns the table tag containing the difference information.
+*/
+
+# Program 2.0 Code Explanation
+
+1) str1=''.join(text1)
+/*
+	If you want to use a method for concatenation in python you can use: join
+*/
+
+2) str1.split('.')
+/*  
+	Python split string by.
+	In this example, we are splitting the strings using the . followed by space. 
+	Within the last statement, we removed the extra space. 
+*/

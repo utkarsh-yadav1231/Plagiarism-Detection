@@ -1,0 +1,4 @@
+Grammarly’s plagiarism checker can detect plagiarism from billions of web pages. 
+Our free plagiarism check will tell you whether or not your text contains duplicate content.Our Premium plagiarism check highlights passages that require citations and gives you the resources you need to properly credit your sources.Hello everyone i am utkarsh. 
+We have made this project for detecting plagiarism.
+t111111111111111111111111111111. Hello everyone i am Utkarsh. [2]We have made this project for detecting plagiarism. [3] It detects the plagiarized content by matching the two files for the similar content. Our free plagiarism check will tell you whether or not your text contains duplicate content.Our Premium plagiarism check highlights passages that require citations and gives you the resources you need to properly credit your sources. Hello everyone i am utkarsh.GOODBYE. 

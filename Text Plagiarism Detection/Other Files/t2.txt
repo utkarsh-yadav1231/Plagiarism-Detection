@@ -1,0 +1,3 @@
+Hello everyone i am utkarsh. [2]We have made this project for detecting plagiarism. [3] It detects the plagiarized content by matching the two files for the similar content.
+
+This is t2 txt file. GOODBYE.
