@@ -14,7 +14,7 @@ an original image a little bit).
 6. After that, it prints out the Resultant difference image which shows what extra was added to the original image.
 
 ## Language and Software used :
-1. Python
+1. Python 3.8
 2. Pycharm IDE
 
 ## Screenshots :-
